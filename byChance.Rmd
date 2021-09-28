@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Could the Covid 19 efficacy be due to chance alone?  
+# Could the Covid 19 vaccine efficacy be due to chance alone?  
 
 I made this at near the start of the pandemic when vaccines were being trialed. There were a number of posts on social media claiming the trial provided insufficient evidence of the efficacy of the vaccine, as in the results were due to chance.  
 
