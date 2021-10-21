@@ -1,4 +1,4 @@
 # VaccineEfficacy
  
-Details in readable.md  
-Converted from  the working file: byChance.Rmd
+On web at https://rpubs.com/OneEsk19/825351
+Knitted from from: byChance.Rmd
